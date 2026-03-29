@@ -1,5 +1,11 @@
 <h1 align="center">👋 Hi, I'm Luong Quoc Binh</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/lqb464/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## ✨ About Me
@@ -41,12 +47,3 @@
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lqb464&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lqb464/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>

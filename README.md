@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hi, I'm Luong Quoc Binh</h1>
-<h3 align="center">AI Engineer | Data Scientist | VNUHCM - University of Science</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lqb464&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/lqb464?label=Followers&style=for-the-badge&color=1f6feb" alt="GitHub followers" />
-</p>
+<h3 align="center">ML/AI Engineer | Data Scientist | VNUHCM - University of Science</h3>
 
 ---
 
@@ -53,10 +48,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/trang-nguyen-huyen-674109249/">
+  <a href="https://www.linkedin.com/in/lqb464/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nguyenhuyentrangg457@gmail.com">
+  <a href="mailto:lqb464@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/lqb464/">

@@ -17,7 +17,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=c&logoColor=white" />
 </p>
 
 ### AI / ML

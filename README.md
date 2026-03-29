@@ -1,13 +1,12 @@
 <h1 align="center">👋 Hi, I'm Luong Quoc Binh</h1>
-<h3 align="center">ML/AI Engineer | Data Scientist | VNUHCM - University of Science</h3>
 
 ---
 
 ## ✨ About Me
 
 - 🎓 I'm a student at **VNUHCM - University of Science**
-- 💡 I'm interested in **AI Engineering** and **Data Science**
-- 🤖 I enjoy building **intelligent systems**, **LLM applications**, and **data-driven solutions**
+- 💡 I'm interested in **ML/AI Engineering** and **Data Science**
+- 🤖 I enjoy building **intelligent systems** and **data-driven solutions**
 - 🚀 My goal is to create practical AI products that can solve real-world problems
 
 ---
@@ -18,7 +17,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=c&logoColor=white" />
 </p>
 
 ### AI / ML
@@ -50,11 +49,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lqb464/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lqb464@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/lqb464/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
 </p>

@@ -36,9 +36,9 @@
 ### ⚙️ Tools & MLOps
 | Category | Tools |
 | :--- | :--- |
-| **API & Web App** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FFBB00?style=flat&logo=gradio&logoColor=black) |
+| **API & Web App** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FFBB00?style=flat&logo=gradio&logoColor=black) |
 | **Containerization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
-| **Automation** | ![Makefile](https://img.shields.io/badge/Makefile-4D4D4D?style=flat&logo=gnu-make&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
+| **Automation** | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
 | **Experiment Tracking** | ![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black) |
 
 ---

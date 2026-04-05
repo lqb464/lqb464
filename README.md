@@ -29,8 +29,8 @@
 | Domain | Tech Stack |
 | :--- | :--- |
 | **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
-| **Data Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat&logo=matplotlib&logoColor=white) |
-| **Classical ML** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-2C2C2C?style=flat) ![LightGBM](https://img.shields.io/badge/LightGBM-0080FF?style=flat) ![CatBoost](https://img.shields.io/badge/CatBoost-FF0000?style=flat) |
+| **Data Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat) |
+| **Classical ML** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-2C2C2C?style=flat&logo=airplay&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-0080FF?style=flat&logo=microsoft&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FF0000?style=flat&logo=tree&logoColor=white) |
 | **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
 
 ### ⚙️ Tools & MLOps
